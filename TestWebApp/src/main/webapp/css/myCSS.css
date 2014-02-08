@@ -1,0 +1,11 @@
+.popup{ /* style for your dialog */
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    border: groove black;
+    box-shadow: 0 0 5px gray;
+    border-radius: 10px;
+    padding:15px;
+    left:40%;
+    top:40%;
+}
